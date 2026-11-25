@@ -32,7 +32,7 @@ def load_models():
     return z, meta, svm, tp
 
 z, meta, svm, tp = load_models()
-labels = list(meta["labels"])
+labels = meta["labels"]
 ids, true_label = None, None
 
 # ---------------------------------------------------------------- Sample
@@ -56,10 +56,9 @@ if ids is None:
     st.stop()
 
 row = ids[0][ids[0] > 0]
-preview_toks = " ".join("UNK" if int(t) == 1 else str(int(t) - 2) for t in row[:30])
 rows = [("Source", "Test split of the public dataset" if true_label else "Pasted by the user"),
         ("Opcodes used", f"{len(row)} of {meta['max_len']}"),
-        ("First opcode ids", f"<span class='mono'>{e(preview_toks)}{' ...' if len(row) > 30 else ''}</span>")]
+        ("First opcode ids", f"<span class='mono'>{e(' '.join(str(int(t) - 2) for t in row[:30]))}{' ...' if len(row) > 30 else ''}</span>")]
 if true_label:
     rows.insert(1, ("Label in the dataset", e(true_label)))
 st.markdown(ui.kv(rows), unsafe_allow_html=True)
@@ -74,10 +73,9 @@ fam_t, top_t = (predict.transformer_predict(tp[0], tp[1], ids, labels) if tp is 
 metrics = {}
 mp = f"{config.RESULTS_DIR}/metrics.json"
 if os.path.exists(mp):
-    with open(mp, encoding="utf-8") as f:
-        metrics = json.load(f).get("models", {})
+    metrics = json.load(open(mp)).get("models", {})
 use_t = fam_t is not None and metrics.get("Transformer", {}).get("f1_macro", 0) > metrics.get("SVM", {}).get("f1_macro", 1)
-default_final, default_name = (fam_t, "Transformer") if use_t else (fam_s, "SVM")
+final, final_name = (fam_t, "Transformer") if use_t else (fam_s, "SVM")
 
 if fam_t is None:
     verdict = f"The SVM says <b>{e(fam_s)}</b>. The Transformer model file was not found."
@@ -98,18 +96,6 @@ st.markdown(ui.table(head, body), unsafe_allow_html=True)
 st.markdown("<p class='cap'>SVM scores are distances from the decision boundary and are not probabilities. "
             "Transformer scores are softmax probabilities. Neither is calibrated, so do not read them as confidence.</p>",
             unsafe_allow_html=True)
-
-# Allow switching which model's verdict to inspect when both models are loaded
-if fam_t is not None and fam_s != fam_t:
-    choice = st.radio(
-        "Inspect reference sample & documented intelligence for:",
-        [f"SVM ({fam_s})", f"Transformer ({fam_t})"],
-        index=1 if use_t else 0,
-        horizontal=True,
-    )
-    final, final_name = (fam_t, "Transformer") if choice.startswith("Transformer") else (fam_s, "SVM")
-else:
-    final, final_name = default_final, default_name
 
 # a training sample of the predicted family, for a visual comparison
 tr = z["idx_train"]
@@ -159,7 +145,7 @@ if t.get("verified"):
 else:
     status = "<span class='bad'>No verified entry.</span> Nothing here has been checked against a public source."
 st.markdown(ui.kv([
-    ("Looked up for", f"{e(final)} ({final_name} prediction)"),
+    ("Looked up for", f"{e(final)} (the {final_name} result, the better model on the test split)"),
     ("Status", status),
     ("Summary", e(t.get("summary") or "") or "<span class='muted'>none recorded</span>"),
     ("ATT&CK techniques", ui.listing(t.get("attack_techniques"))),

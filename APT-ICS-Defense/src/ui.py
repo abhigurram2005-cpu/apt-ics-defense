@@ -45,7 +45,7 @@ def strip(tokens):
             cells.append('<span style="background:#fff"></span>')
         else:
             raw = t - 2
-            cells.append(f'<span style="background:{_hue(max(raw, 0))}" title="position {pos + 1}: {'UNK' if t == 1 else f'opcode id {raw}'}"></span>')
+            cells.append(f'<span style="background:{_hue(max(raw, 0))}" title="position {pos + 1}: opcode id {raw}"></span>')
     return '<div class="strip">' + "".join(cells) + "</div>"
 
 def kv(rows):

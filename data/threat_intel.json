@@ -1,0 +1,305 @@
+{
+  "_README": "Threat intelligence entries mapped to Microsoft Security Intelligence / MMPC and MITRE ATT&CK Enterprise documentation for the 21 public dataset families. Scope note: Family classification on static opcodes is not APT or ICS attribution.",
+  "ADLOAD": {
+    "verified": true,
+    "summary": "Windows adware and unwanted software downloader (Adware:Win32/Adload) that alters browser proxy/search settings and fetches bundled payloads.",
+    "attack_techniques": [
+      "T1547.001 (Registry Run Keys)",
+      "T1105 (Ingress Tool Transfer)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Adware:Win32/Adload",
+      "MITRE ATT&CK Enterprise (T1547.001, T1105)"
+    ],
+    "confidence": "medium: commodity adware/PUA family; not an APT or ICS threat group"
+  },
+  "AGENT": {
+    "verified": true,
+    "summary": "Generic detection bucket (Trojan:Win32/Agent) covering diverse Windows trojans sharing common dropper, persistence, or C2 traits rather than a single codebase.",
+    "attack_techniques": [
+      "T1059 (Command and Scripting Interpreter)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Trojan:Win32/Agent",
+      "MITRE ATT&CK Enterprise (T1059, T1547.001)"
+    ],
+    "confidence": "low: generic multi-family detection label; requires binary-level triage"
+  },
+  "ALLAPLE_A": {
+    "verified": true,
+    "summary": "Polymorphic, multi-threaded Windows network worm (Worm:Win32/Allaple.A) that spreads across SMB network shares and infects local executable/HTML files.",
+    "attack_techniques": [
+      "T1021.002 (SMB/Windows Admin Shares)",
+      "T1027 (Obfuscated Files or Information)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Worm:Win32/Allaple.A",
+      "MITRE ATT&CK Enterprise (T1021.002, T1027)"
+    ],
+    "confidence": "medium: well-documented legacy network worm; not APT-attributed"
+  },
+  "BHO": {
+    "verified": true,
+    "summary": "Malicious or unwanted Browser Helper Object (Trojan/Adware:Win32/BHO) registered via COM CLSID keys to monitor Internet Explorer activity and inject content.",
+    "attack_techniques": [
+      "T1176 (Browser Extensions)",
+      "T1112 (Modify Registry)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Win32/BHO",
+      "MITRE ATT&CK Enterprise (T1176, T1112)"
+    ],
+    "confidence": "low: broad browser-extension behavior category; not APT-attributed"
+  },
+  "BIFROSE": {
+    "verified": true,
+    "summary": "Classic Windows Remote Access Trojan (Backdoor:Win32/Bifrose / Bifrost) providing keylogging, credential harvesting, file management, and remote shell C2.",
+    "attack_techniques": [
+      "T1056.001 (Keylogging)",
+      "T1055 (Process Injection)",
+      "T1071.001 (Web Protocols)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Backdoor:Win32/Bifrose",
+      "MITRE ATT&CK Enterprise (T1056.001, T1055)"
+    ],
+    "confidence": "medium: publicly available RAT builder used by diverse actors; builder match != attribution"
+  },
+  "CEEINJECT": {
+    "verified": true,
+    "summary": "Generic obfuscator/crypter wrapper (VirTool:Win32/CeeInject) used to pack diverse underlying malware families and inject decoded payloads into host processes.",
+    "attack_techniques": [
+      "T1027.002 (Software Packing)",
+      "T1055 (Process Injection)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: VirTool:Win32/CeeInject",
+      "MITRE ATT&CK Enterprise (T1027.002, T1055)"
+    ],
+    "confidence": "low: shared packer/crypter stub; underlying payload family cannot be inferred statically"
+  },
+  "CYCBOT_G": {
+    "verified": true,
+    "summary": "Windows backdoor trojan (Backdoor:Win32/Cycbot.G) that connects to remote C2 servers, modifies host firewall/registry settings, and downloads secondary payloads.",
+    "attack_techniques": [
+      "T1071.001 (Web Protocols)",
+      "T1562.004 (Disable or Modify System Firewall)",
+      "T1105 (Ingress Tool Transfer)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Backdoor:Win32/Cycbot.G",
+      "MITRE ATT&CK Enterprise (T1562.004, T1105)"
+    ],
+    "confidence": "medium: commodity backdoor/bot family; not linked to ICS threat groups"
+  },
+  "FAKEREAN": {
+    "verified": true,
+    "summary": "Rogue security software / scareware (Rogue:Win32/FakeRean) displaying fabricated infection warnings to coerce victims into purchasing fake antivirus licenses.",
+    "attack_techniques": [
+      "T1204.002 (User Execution: Malicious File)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Rogue:Win32/FakeRean",
+      "MITRE ATT&CK Enterprise (T1204.002, T1547.001)"
+    ],
+    "confidence": "medium: financially motivated scareware family; not an APT group"
+  },
+  "HOTBAR": {
+    "verified": true,
+    "summary": "Legacy browser toolbar adware (Adware:Win32/Hotbar) that hooks into Internet Explorer/Outlook to track browsing behavior and display targeted ads.",
+    "attack_techniques": [
+      "T1176 (Browser Extensions)",
+      "T1071.001 (Web Protocols)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Adware:Win32/Hotbar",
+      "MITRE ATT&CK Enterprise (T1176)"
+    ],
+    "confidence": "low: commodity adware (note: only 12 samples in dataset / 2 in test split)"
+  },
+  "INJECTOR": {
+    "verified": true,
+    "summary": "Generic heuristic classification (Trojan:Win32/Injector) for Windows executables that inject shellcode or DLL modules into legitimate running processes.",
+    "attack_techniques": [
+      "T1055 (Process Injection)",
+      "T1055.012 (Process Hollowing)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Trojan:Win32/Injector",
+      "MITRE ATT&CK Enterprise (T1055)"
+    ],
+    "confidence": "low: behavioral/heuristic bucket spanning unrelated malware families"
+  },
+  "ONLINEGAMES": {
+    "verified": true,
+    "summary": "Password-stealing trojan family (PWS:Win32/OnLineGames) targeting gaming account credentials via keylogging, API hooking, and removable-media autorun.",
+    "attack_techniques": [
+      "T1056.001 (Keylogging)",
+      "T1091 (Replication Through Removable Media)",
+      "T1555 (Credentials from Password Stores)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: PWS:Win32/OnLineGames",
+      "MITRE ATT&CK Enterprise (T1056.001, T1091)"
+    ],
+    "confidence": "medium: financially motivated credential-theft crimeware; not APT-attributed"
+  },
+  "RENOS": {
+    "verified": true,
+    "summary": "Trojan downloader (TrojanDownloader:Win32/Renos) often disguised as a media codec that fetches rogue antivirus payloads (e.g., FakeRean/Winwebsec).",
+    "attack_techniques": [
+      "T1105 (Ingress Tool Transfer)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: TrojanDownloader:Win32/Renos",
+      "MITRE ATT&CK Enterprise (T1105, T1547.001)"
+    ],
+    "confidence": "medium: commodity downloader linked to scareware distribution"
+  },
+  "RIMECUD_A": {
+    "verified": true,
+    "summary": "Multi-component Windows worm (Worm:Win32/Rimecud.A) spreading via removable drives and messaging clients while exposing a backdoor for remote payload execution.",
+    "attack_techniques": [
+      "T1091 (Replication Through Removable Media)",
+      "T1105 (Ingress Tool Transfer)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Worm:Win32/Rimecud.A",
+      "MITRE ATT&CK Enterprise (T1091, T1105)"
+    ],
+    "confidence": "medium: commodity worm family (note: small support of 10 test samples)"
+  },
+  "SMALL": {
+    "verified": true,
+    "summary": "Generic family label (TrojanDownloader:Win32/Small) for compact stub downloaders engineered to fetch and execute larger second-stage payloads over HTTP.",
+    "attack_techniques": [
+      "T1105 (Ingress Tool Transfer)",
+      "T1071.001 (Web Protocols)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: TrojanDownloader:Win32/Small",
+      "MITRE ATT&CK Enterprise (T1105)"
+    ],
+    "confidence": "low: size-based downloader category spanning multiple authors"
+  },
+  "TOGA_RFN": {
+    "verified": true,
+    "summary": "Generic Microsoft heuristic signature (Trojan:Win32/Toga!rfn) flagging PE binaries with suspicious obfuscation, persistence, or C2 characteristics.",
+    "attack_techniques": [
+      "T1027 (Obfuscated Files or Information)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Trojan:Win32/Toga!rfn",
+      "MITRE ATT&CK Enterprise (T1027)"
+    ],
+    "confidence": "low: heuristic signature bucket rather than a single malware lineage"
+  },
+  "VB": {
+    "verified": true,
+    "summary": "Generic detection category (Trojan/Worm:Win32/VB) for malware compiled in Visual Basic (P-Code or native runtime), spanning downloaders, worms, and RATs.",
+    "attack_techniques": [
+      "T1059 (Command and Scripting Interpreter)",
+      "T1027 (Obfuscated Files or Information)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Win32/VB",
+      "MITRE ATT&CK Enterprise (T1059, T1027)"
+    ],
+    "confidence": "low: compiler/runtime-based grouping; not a single threat actor"
+  },
+  "VBINJECT": {
+    "verified": true,
+    "summary": "Visual Basic crypter/packer wrapper (VirTool:Win32/VBInject) that decrypts an embedded payload in memory and injects it into a target Windows process.",
+    "attack_techniques": [
+      "T1027.002 (Software Packing)",
+      "T1055 (Process Injection)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: VirTool:Win32/VBInject",
+      "MITRE ATT&CK Enterprise (T1027.002, T1055)"
+    ],
+    "confidence": "low: shared crypter stub used across many unrelated malware families"
+  },
+  "VOBFUS": {
+    "verified": true,
+    "summary": "Visual Basic worm family (Worm:Win32/Vobfus) propagating via removable drives and network shares while continuously downloading polymorphic updates and secondary malware.",
+    "attack_techniques": [
+      "T1091 (Replication Through Removable Media)",
+      "T1105 (Ingress Tool Transfer)",
+      "T1027 (Obfuscated Files or Information)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Worm:Win32/Vobfus",
+      "MITRE ATT&CK Enterprise (T1091, T1105)"
+    ],
+    "confidence": "medium: well-documented self-updating worm family; not ICS-specific"
+  },
+  "VUNDO": {
+    "verified": true,
+    "summary": "Multi-stage Windows trojan and downloader (Trojan:Win32/Vundo) using DLL injection into explorer.exe/browsers and resilient registry persistence.",
+    "attack_techniques": [
+      "T1055.001 (Dynamic-link Library Injection)",
+      "T1105 (Ingress Tool Transfer)",
+      "T1547.001 (Registry Run Keys)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Trojan:Win32/Vundo",
+      "MITRE ATT&CK Enterprise (T1055.001, T1105)"
+    ],
+    "confidence": "medium: commodity trojan/downloader family; not APT-attributed"
+  },
+  "WINWEBSEC": {
+    "verified": true,
+    "summary": "Widespread rogue antivirus / scareware family (Rogue:Win32/Winwebsec) impersonating Windows security alerts to defraud users into buying fake cleanup tools.",
+    "attack_techniques": [
+      "T1204.002 (User Execution: Malicious File)",
+      "T1547.001 (Registry Run Keys)",
+      "T1562.001 (Disable or Modify Tools)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "Microsoft Security Intelligence: Rogue:Win32/Winwebsec",
+      "MITRE ATT&CK Enterprise (T1204.002, T1562.001)"
+    ],
+    "confidence": "medium: financially motivated scareware family; not an APT group"
+  },
+  "ZBOT": {
+    "verified": true,
+    "summary": "Zeus modular banking trojan (PWS:Win32/Zbot / MITRE Software S0330) utilizing browser form-grabbing and web-injects to steal financial and login credentials.",
+    "attack_techniques": [
+      "T1185 (Browser Session Hijacking)",
+      "T1055 (Process Injection)",
+      "T1555.003 (Credentials from Web Browsers)"
+    ],
+    "apt_associations": [],
+    "sources": [
+      "MITRE ATT&CK Software S0330 (Zeus)",
+      "Microsoft Security Intelligence: PWS:Win32/Zbot"
+    ],
+    "confidence": "medium: leaked Zeus source code spawned numerous independent cybercrime operators"
+  }
+}
