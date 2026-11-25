@@ -1,0 +1,18 @@
+Dataset: {'labels': ['ADLOAD', 'AGENT', 'ALLAPLE_A', 'BHO', 'BIFROSE', 'CEEINJECT', 'CYCBOT_G', 'FAKEREAN', 'HOTBAR', 'INJECTOR', 'ONLINEGAMES', 'RENOS', 'RIMECUD_A', 'SMALL', 'TOGA_RFN', 'VB', 'VBINJECT', 'VOBFUS', 'VUNDO', 'WINWEBSEC', 'ZBOT'], 'vocab_size': 33, 'max_len': 256, 'rows_loaded': 9725, 'duplicates_removed': 2178, 'rows_used': 7547, 'class_counts': {'ADLOAD': 60, 'AGENT': 133, 'ALLAPLE_A': 986, 'BHO': 141, 'BIFROSE': 111, 'CEEINJECT': 302, 'CYCBOT_G': 593, 'FAKEREAN': 544, 'HOTBAR': 12, 'INJECTOR': 142, 'ONLINEGAMES': 185, 'RENOS': 481, 'RIMECUD_A': 70, 'SMALL': 141, 'TOGA_RFN': 322, 'VB': 337, 'VBINJECT': 720, 'VOBFUS': 733, 'VUNDO': 635, 'WINWEBSEC': 677, 'ZBOT': 222}}
+Split sizes: train 5282, val 1132, test 1133
+
+== SVM baseline ==
+{'accuracy': 0.8578993821712269, 'precision_macro': 0.7526210897021087, 'recall_macro': 0.7600381420364962, 'f1_macro': 0.7509415171091601, 'train_time_s': 1.9018754959106445}
+
+== Transformer ==
+epoch 1/8  loss 2.3178  val_acc 0.5769
+epoch 2/8  loss 1.5436  val_acc 0.6820
+epoch 3/8  loss 1.2183  val_acc 0.7129
+epoch 4/8  loss 0.9955  val_acc 0.7155
+epoch 5/8  loss 0.7586  val_acc 0.7403
+epoch 6/8  loss 0.5650  val_acc 0.7473
+epoch 7/8  loss 0.4102  val_acc 0.7482
+epoch 8/8  loss 0.3237  val_acc 0.7535
+{'accuracy': 0.7625772285966461, 'precision_macro': 0.6643949597407425, 'recall_macro': 0.6770570984691747, 'f1_macro': 0.6646599876543409, 'train_time_s': 1504.520803451538}
+
+Saved results/metrics.json, results/comparison.csv, confusion matrices, models/

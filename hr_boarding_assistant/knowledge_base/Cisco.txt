@@ -1,0 +1,217 @@
+====================================================
+CISCO HR KNOWLEDGE BASE
+Company: Cisco Systems, Inc.
+Industry: Networking, Cybersecurity, Cloud & IT Infrastructure
+====================================================
+
+----------------------------
+SECTION 1: EMPLOYEE ONBOARDING STEPS
+----------------------------
+
+Step 1: Pre-Joining Formalities
+- Accept offer letter via Cisco's e-onboarding portal (Workday / Cisco HR Portal).
+- Complete I-9 verification (US employees) or equivalent ID verification (international).
+- Submit required documents: government ID, tax forms (W-4 for US / equivalent), bank details for direct deposit, emergency contact information.
+- Background check initiated through Cisco's third-party verification vendor (Sterling).
+- Receive IT setup instructions and pre-joining resources via email.
+
+Step 2: Pre-Boarding (Week Before Joining)
+- Receive Cisco laptop and equipment shipped to your home address (remote hires) or available at office.
+- IT account activation email sent; set up Cisco SSO, Duo Security (MFA), WebEx, and Jabber.
+- Complete required pre-joining compliance modules (available online before Day 1).
+- Introduction email from hiring manager with team calendar and Day 1 schedule.
+
+Step 3: Day 1 – Welcome & Orientation
+- Join Global New Employee Orientation (virtual or in-person depending on location).
+- Introduction to Cisco's purpose: "To continuously advance and connect the unconnected."
+- Overview of Cisco's values: Dedicated to your success, Give back, Innovation, Trust, and Integrity.
+- Cisco People Deal introduced: "Be a part of something powerful, pursue better together, be brilliant."
+- Complete Day 1 compliance acknowledgments in Workday.
+
+Step 4: First 30 Days – Onboarding Plan
+- Complete the 30-60-90 Day Onboarding Plan assigned by manager in Workday.
+- Introduction to key stakeholders, team processes, and internal tools (Cisco dCloud, Webex Teams, Cisco DevNet).
+- Attend department-specific onboarding sessions.
+- Enroll in Cisco Learning & Certifications portal (NetAcad, Cisco Learning Network).
+- Set initial goals in Workday with manager.
+
+Step 5: First 60–90 Days
+- Deep-dive into product, technical, or business domain training.
+- Participate in New Employee Experience (NEX) programs and networking events.
+- Regular 1:1 meetings with manager and skip-level check-in.
+- Mid-onboarding feedback session with HR.
+
+Step 6: Probation & Confirmation
+- Probation: Typically 6 months (varies by country/employment type).
+- Performance discussed throughout; formal check-in at 6 months.
+
+----------------------------
+SECTION 2: HR POLICIES
+----------------------------
+
+2.1 Code of Business Conduct (COBC)
+- All employees must complete the Code of Business Conduct training annually.
+- Covers anti-bribery, anti-corruption, fair competition, conflicts of interest, insider trading, and export controls.
+- Violations reported via Cisco Integrity Line (anonymous, 24/7, available in 150+ countries).
+- Non-compliance may lead to disciplinary action up to and including termination.
+
+2.2 Diversity, Equity & Inclusion (DEI) Policy
+- Cisco is committed to a workforce that reflects the diversity of its customers and communities.
+- Equal Opportunity Employer: hiring decisions based solely on qualifications.
+- Employees encouraged to join Cisco's Inclusion Communities (e.g., Cisco Connected Women, PRIDE, Black Cisco Employees).
+- Discrimination or bias based on race, gender, nationality, age, disability, sexual orientation, or religion is not tolerated.
+
+2.3 Global Anti-Harassment Policy
+- Zero-tolerance policy for workplace harassment, bullying, and discrimination.
+- Reporting channels: Direct manager, HR Business Partner, Cisco Integrity Line.
+- All complaints investigated promptly and confidentially.
+
+2.4 Information Security Policy
+- All employees must complete annual information security and data privacy training.
+- Cisco data (client, financial, product) classified and handled per Cisco's Information Security Policy.
+- Clean desk policy in Cisco offices. No tailgating through secure access points.
+- Use of non-approved personal devices for Cisco work is prohibited without MDM enrollment.
+
+2.5 Responsible Internet Use Policy
+- Cisco systems are for business use. Incidental personal use is permitted within boundaries.
+- Accessing inappropriate, offensive, or illegal content on Cisco networks is prohibited.
+- All internet activity on Cisco networks may be monitored.
+
+2.6 Sustainability & Social Responsibility
+- Employees are encouraged to participate in Cisco's CSR initiatives: Time2Give (5 days of paid volunteer time per year).
+- Carbon footprint reduction and environmental sustainability are core to Cisco culture.
+
+----------------------------
+SECTION 3: LEAVE POLICY
+----------------------------
+
+Paid Time Off (PTO) – US Employees:
+- Cisco follows a Flexible PTO policy for most employees in the US: no fixed annual PTO cap.
+- Employees are encouraged to take adequate time off in coordination with their manager.
+- Minimum 10 days off per year encouraged by Cisco leadership.
+- Unused PTO does not carry over or get paid out under flexible PTO policy.
+
+Sick Leave (US & Global):
+- Separate sick leave entitlements apply as per local/state law requirements.
+- Cisco provides paid sick leave that complies with or exceeds local requirements.
+- Medical certification may be required for extended illness (5+ consecutive days).
+
+Global Leave (Non-US Employees):
+- Leave entitlements follow local labor laws and statutory requirements.
+- India employees: PL – 21 days/year; SL – 15 days/year; CL – 8 days/year (subject to local policy).
+
+Maternity Leave:
+- US: Up to 12 weeks fully paid parental leave (birth mother) + STD (Short-Term Disability) benefits for physical recovery.
+- India & Global: As per local Maternity Benefit laws. Cisco generally provides enhanced benefits beyond statutory requirements.
+
+Paternity / Partner Leave:
+- US: Up to 6 weeks fully paid parental leave for the non-birthing parent.
+- India: 5 days (statutory) with additional optional leave available.
+
+Adoption Leave:
+- Up to 6 weeks paid leave for primary caregiver (US); statutory compliance globally.
+
+Bereavement Leave:
+- US: Up to 10 days for immediate family; 3 days for extended family.
+- India: 5 days for immediate family.
+
+Jury Duty / Civic Leave:
+- Employees are granted paid time off for jury duty with proof of summons.
+
+Volunteer Time Off (Time2Give):
+- Up to 5 paid days per year for approved volunteer activities.
+
+Leave Application Process:
+- Apply via Workday HR portal under "Time Off."
+- Manager approval required for all planned leaves.
+
+----------------------------
+SECTION 4: ATTENDANCE POLICY
+----------------------------
+
+Working Hours:
+- Standard US: 40 hours/week, flexible scheduling.
+- India/APAC: 9 hours/day (including 30-min break), 5 days/week.
+- Core hours vary by team; typically 10:00 AM – 3:00 PM local time.
+
+Flexible Work Arrangements:
+- Cisco offers flexible work models: in-office, hybrid, and remote.
+- Remote-first or hybrid designation discussed at time of hiring.
+- Employees working remotely are accountable for availability and deliverables.
+
+Hybrid/Remote Policy:
+- Cisco supports a hybrid work model (Hybrid Work Index actively promoted by Cisco).
+- Office days coordinated by managers for team collaboration.
+- No minimum mandatory in-office days unless role-specific (e.g., lab/hardware roles).
+
+Overtime:
+- Non-exempt employees: Overtime approved by manager; paid per local law (1.5x for US hourly workers).
+- Exempt employees: Overtime not separately compensated; comp-off at manager's discretion.
+
+Attendance Tracking:
+- Time and attendance tracked via Workday.
+- Badge access systems in Cisco offices.
+- Remote employees tracked by VPN/productivity metrics at manager discretion.
+
+----------------------------
+SECTION 5: BENEFITS & COMPENSATION
+----------------------------
+
+Health & Wellness (US):
+- Medical Insurance: Multiple plan options (HDHP, PPO) via major carriers.
+- Dental and Vision Insurance.
+- Health Savings Account (HSA) with Cisco employer contribution.
+- Employee Assistance Program (EAP): Free counseling, financial advice, legal assistance (up to 6 sessions/year per topic).
+- Mental health support: Access to Lyra Health platform (16 free sessions/year for employee and family).
+
+Health & Wellness (India):
+- Group Mediclaim: INR 5,00,000–8,00,000/year (employee + family).
+- Group Term Life and Personal Accident Insurance.
+- Annual preventive health check-up.
+
+Retirement Benefits (US):
+- 401(k) Plan: Cisco matches 100% of contributions up to 4.5% of eligible salary.
+- Immediate vesting of employer contributions.
+
+Retirement Benefits (India):
+- Provident Fund (PF): 12% employer contribution.
+- Gratuity: As per Gratuity Act.
+- National Pension Scheme (NPS): Optional.
+
+Learning & Development:
+- Cisco Learning & Certifications (NetAcad): Free access to hundreds of courses and certifications.
+- LinkedIn Learning access for all employees.
+- Tuition Reimbursement: Up to USD 10,000/year for approved degree programs.
+- Internal Cisco training academies: Cisco dCloud, DevNet, Security Academy.
+
+Stock & Financial Benefits:
+- Employee Stock Purchase Plan (ESPP): Up to 15% discount on Cisco stock.
+- Restricted Stock Units (RSUs): For eligible roles and levels.
+
+Wellness Perks:
+- Subsidized cafeteria and fitness center at major campuses.
+- Bike-to-work subsidies, commuter benefits.
+- Cisco Children's Scholarship program.
+- Backup childcare and elder care support via benefits portal.
+
+Rewards & Recognition:
+- Cisco Achievement Program (CAP): Peer-to-peer recognition points redeemable for gifts/travel.
+- Cisco Connected Recognition Program.
+- Annual focal review for salary adjustments and bonus determination.
+
+----------------------------
+SECTION 6: EXIT / SEPARATION POLICY
+----------------------------
+
+- Notice Period: 2 weeks (US standard); 60–90 days for India (as per contract).
+- Resignation submitted via Workday or via manager + HR notification.
+- Exit interview scheduled by HR Business Partner.
+- Asset return (laptop, badges, peripherals) on or before last working day.
+- US: Final paycheck issued per state law on last day or within 3 business days.
+- India: Full & Final settlement within 45 days post exit.
+- Relieving/experience letters issued post completion of exit formalities.
+
+====================================================
+NOTE: This document is for informational purposes only.
+For personal HR matters, leave approvals, or policy exceptions, contact your Cisco HR Business Partner or raise a request via Workday.
+====================================================

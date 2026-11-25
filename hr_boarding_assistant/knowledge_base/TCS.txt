@@ -1,0 +1,198 @@
+====================================================
+TCS HR KNOWLEDGE BASE
+Company: Tata Consultancy Services (TCS)
+Industry: IT Services, Consulting & Business Solutions
+====================================================
+
+----------------------------
+SECTION 1: EMPLOYEE ONBOARDING STEPS
+----------------------------
+
+Step 1: Pre-Joining Formalities
+- Accept the offer letter via the iBegin portal (TCS's digital onboarding platform).
+- Upload mandatory documents: graduation/post-graduation certificates, mark sheets, government-issued ID proof (Aadhaar/Passport/Voter ID), PAN card, address proof, and previous employment documents.
+- Complete online pre-joining assessments if applicable (for freshers via Campus Commune / National Qualifier Test).
+- Background verification (BGV) initiated through TCS's empaneled third-party agency.
+
+Step 2: ILP – Initial Learning Program (Fresher-specific)
+- Freshers join the Initial Learning Program (ILP) held at TCS training centers (Thiruvananthapuram, Pune, Chennai, Hyderabad, etc.).
+- Duration: 3–6 months of residential/classroom training.
+- Topics: Programming fundamentals, communication skills, Agile, DevOps, domain knowledge.
+- Assessment at the end of ILP; allocation to projects based on performance and business requirement.
+
+Step 3: Day 1 – Joining Day (Lateral Hires)
+- Report to the designated TCS office with original documents for verification.
+- Employee ID card issued; system access and email account (@tcs.com) activated.
+- IT asset allocation: laptop, access tokens, VPN credentials.
+- Assigned to a buddy/HR SPOC for initial guidance.
+
+Step 4: Orientation Program
+- Attend the TCS Induction program covering company history, culture, and values.
+- TCS Core Values: Integrity, Responsibility, Excellence, Pioneering, Unity, Respect for the Individual.
+- Introduction to internal portals: Ultimatix (employee self-service), iEvolve (learning), GEMS (goal management).
+- Mandatory compliance and security training within first 2 weeks.
+
+Step 5: Project Allocation
+- Allocation done by the Resource Management Group (RMG) based on skills and project requirements.
+- Manager introduction and project-specific onboarding follows allocation.
+
+Step 6: Probation & Confirmation
+- Probation period: 6 months for freshers; case-by-case for laterals.
+- Confirmation based on performance review at the end of probation.
+
+----------------------------
+SECTION 2: HR POLICIES
+----------------------------
+
+2.1 Code of Conduct
+- All employees must adhere to TCS's Code of Conduct and Ethics Policy.
+- Annual acknowledgment of the Code of Conduct is mandatory.
+- Zero tolerance for fraud, bribery, and corruption.
+- Report concerns via the TCS Ethics Helpline or directly to the Ethics & Compliance team.
+
+2.2 Prevention of Sexual Harassment (POSH) Policy
+- TCS follows the Sexual Harassment of Women at Workplace Act, 2013 (India).
+- Internal Complaints Committee (ICC) is constituted at every office location.
+- Complaints must be submitted in writing within 3 months of the incident.
+- Strict confidentiality maintained during the investigation process.
+
+2.3 Intellectual Property (IP) Policy
+- All work products developed during employment are the IP of TCS.
+- Employees must not share proprietary code, client data, or project information outside the organization.
+- External publications/patents require prior approval from the IP team.
+
+2.4 Acceptable Use of Technology Policy
+- TCS systems and networks are to be used for official purposes only.
+- Unauthorized software installation is prohibited.
+- Personal use of TCS internet is restricted; monitoring may occur.
+
+2.5 Conflict of Interest Policy
+- Employees must disclose any personal or financial interest that conflicts with TCS's interests.
+- Moonlighting (working for a competitor during employment) is strictly prohibited.
+- Disclosure form must be submitted annually.
+
+----------------------------
+SECTION 3: LEAVE POLICY
+----------------------------
+
+Privilege Leave (PL) / Earned Leave:
+- 21 days per year for employees in India.
+- Accrued at 1.75 days per month.
+- Maximum carry-forward: 90 days (India). Encashment available at separation.
+
+Sick Leave (SL):
+- 15 days per year (India).
+- Medical certificate required for absence beyond 2 days.
+- Not encashable; partial carry-forward permitted in some locations.
+
+Casual Leave (CL):
+- 8 days per year. Cannot be combined with PL or carried forward.
+
+Maternity Leave:
+- 26 weeks fully paid for female employees in India (first two children).
+- 12 weeks for third child onwards.
+- Work from home and part-time return-to-work options available post maternity leave.
+
+Paternity Leave:
+- 5 days paid leave within 30 days of the child's birth.
+
+Special Caregiver Leave:
+- Up to 5 days for care of a critically ill immediate family member (with documentation).
+
+Bereavement Leave:
+- 5 days for immediate family (spouse, children, parents, siblings).
+
+Public Holidays:
+- 10 national/festival holidays per year (varies by location/state).
+- Employees can opt for optional holidays (OPH) as per regional lists.
+
+Leave Application Process:
+- Apply via Ultimatix HR portal under the "Leave" module.
+- Planned leave requires minimum 3 working days advance notice.
+- Leave cancellation must be done via the portal before the leave start date.
+
+----------------------------
+SECTION 4: ATTENDANCE POLICY
+----------------------------
+
+Working Hours:
+- Standard: 9 hours/day (including 30–45 min break), 5 days a week.
+- Core hours: 10:00 AM – 4:00 PM.
+- Flexible window: 8:00 AM – 10:00 AM (start time).
+- Weekly expected hours: 45 hours.
+
+Attendance Tracking:
+- Biometric swipe system at office premises.
+- Remote attendance tracked via VPN login on Ultimatix.
+- Half-day absence if employee works fewer than 5 hours.
+
+Work From Home Policy:
+- Hybrid work model: typically 3 days in office, 2 days from home (project-dependent).
+- WFH approval via Ultimatix by the reporting manager.
+- Employees must maintain full availability via Teams/email during working hours.
+
+Late Arrivals:
+- Consistent late arrivals (after 10:30 AM) without approval flagged by HR.
+- 3 or more late arrivals in a month may result in half-day leave deduction.
+
+Comp-Off:
+- Earned when working on public holidays or weekends.
+- Must be applied and availed within 60 days of earning.
+
+Unauthorized Absence:
+- 3+ consecutive absent days without leave approval triggers disciplinary review.
+- Loss of pay applied for unauthorized absences.
+
+----------------------------
+SECTION 5: BENEFITS & COMPENSATION
+----------------------------
+
+Health & Insurance:
+- Group Mediclaim: Up to INR 5,00,000/year per family (employee + spouse + dependent children).
+- Top-up health insurance available at employee's cost.
+- Group Term Life Insurance: 3x annual CTC coverage.
+- Personal Accident Insurance: 4x annual CTC.
+
+Retirement Benefits:
+- Provident Fund (PF): 12% of basic salary contributed by employer (India).
+- Gratuity: As per Payment of Gratuity Act (eligible after 5 years of service).
+- Superannuation Fund: Employer contributes 15% of basic salary for eligible employees.
+
+Learning & Development:
+- iEvolve (TCS Learning Platform): Access to thousands of courses, technical and soft skills.
+- TCS Fresco Play: Self-paced online learning with internal and external certifications.
+- Higher Education Assistance: Sponsorship for approved MBA/Master's programs.
+- Certification reimbursement for approved external certifications.
+
+Allowances (India):
+- House Rent Allowance (HRA): Based on city category and basic salary.
+- Leave Travel Allowance (LTA): 1 month's basic salary per year (claimable for actual travel).
+- Special Allowance and Performance Bonus as per grade.
+
+Employee Wellness:
+- Employee Assistance Program (EAP): Confidential counseling services.
+- TCS Cares: Employee welfare program covering medical, personal, and social crises.
+- Fitness reimbursement available at select locations.
+- Annual health check-up for employees.
+
+Rewards & Recognition:
+- Star of the Month, Best Team Awards.
+- On-the-spot recognition through Gems on Ultimatix.
+- Long Service Awards (5 years, 10 years, 15 years, 20 years, 25 years milestones).
+
+----------------------------
+SECTION 6: EXIT / SEPARATION POLICY
+----------------------------
+
+- Notice Period: 60–90 days based on grade and employment contract.
+- Resignation submitted via Ultimatix HR portal.
+- Exit interview conducted by HR SPOC or HR Business Partner.
+- Knowledge transfer and handover documentation is mandatory.
+- Assets (laptop, ID card, access cards) to be returned on last working day.
+- Full & Final settlement processed within 45 days post separation.
+- Experience letter and relieving letter issued post completion of exit process.
+
+====================================================
+NOTE: This document is for informational purposes only.
+For approvals, personal HR issues, or policy exceptions, contact your TCS HR SPOC or HR Business Partner.
+====================================================

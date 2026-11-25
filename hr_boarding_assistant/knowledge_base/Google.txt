@@ -1,0 +1,273 @@
+================================================================================
+GOOGLE LLC (ALPHABET INC.) HR KNOWLEDGE BASE
+For Internal Use | HR OnBoarding & Policy ExplainerBot
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: EMPLOYEE ONBOARDING STEPS ("Noogler" Experience)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTE: New Google employees are called "Nooglers" (New + Googler).
+
+STEP 1 – PRE-JOINING
+----------------------
+- Accept offer through Google's hiring portal (Workday).
+- Complete electronic background check consent (Checkr or equivalent).
+- Upload documents: government-issued ID, academic credentials, prior employment records.
+- Receive "Pre-Noogler" welcome email with Day 1 preparation guide.
+- Google account provisioned 24–48 hours before Day 1.
+- Access Google's Pre-Onboarding Portal: "Arriving at Google" resource page.
+- Review the Google Code of Conduct ("Don't Be Evil" ethos; updated to "Do the Right Thing").
+
+STEP 2 – DAY 1: NOOGLER ORIENTATION
+--------------------------------------
+- Receive iconic "Noogler" propeller beanie hat on Day 1 (a Google tradition).
+- Report to designated Google campus or join virtual onboarding (Googleplex or India campus).
+- Attend the "TGIF-style" Welcome Session (or virtual equivalent for remote hires).
+- Receive Google Chromebook/MacBook, Google Badge, and all required equipment.
+- Complete IT setup: Google Workspace (Gmail, Docs, Meet, Drive, Chat), Titan MFA device.
+- Meet with manager and team.
+- Campus/office tour and facilities walkthrough (on-site).
+
+STEP 3 – WEEK 1: FOUNDATIONS
+------------------------------
+- Complete mandatory compliance and code of conduct courses in Google's LMS.
+  Required modules:
+  - Google Code of Conduct
+  - Information Security & Privacy
+  - Insider Trading Policy (for eligible roles)
+  - Respectful Workplace training
+- Attend functional orientation sessions for your specific role (Engineering, Sales, Ops, etc.).
+- Set up 1:1 cadence with manager.
+- Join Google internal groups: Memegen, Dory, and team Spaces on Chat.
+- Explore Google's internal wiki: "g3docs" and "go/noogler".
+
+STEP 4 – FIRST 30 DAYS
+------------------------
+- Enroll in health and wellness benefits within 30 days.
+- Submit payroll and tax documentation via Workday (India: Form 12BB, bank details).
+- Shadow team meetings, product reviews, and sprint planning sessions.
+- Get access to Google's internal code repositories (for engineering roles).
+- Set OKRs (Objectives and Key Results) for the quarter with manager.
+- Attend Google Noogler Networking events.
+
+STEP 5 – 90-DAY CHECK-IN
+---------------------------
+- Manager-led 90-day onboarding review.
+- Assess integration, culture fit, and initial performance.
+- Probation confirmation (for applicable geographies including India).
+- Finalize Individual Career Development Plan with manager.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: LEAVE POLICY (INDIA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PAID TIME OFF (PTO)
+--------------------
+- Google India follows a structured leave policy aligned with local labor laws.
+- Annual Earned/Privilege Leave: 24 days per year (2 per month accrual).
+- Carry forward: Up to 30 days.
+- Encashable on separation.
+- Required advance notice: 5 working days for planned leaves.
+
+SICK LEAVE
+-----------
+- 12 days per year.
+- Non-encashable; no carry forward.
+- Doctor's certificate required for 3+ consecutive sick days.
+
+CASUAL LEAVE
+-------------
+- 8 days per year.
+- No carry forward; no encashment.
+
+MATERNITY LEAVE
+----------------
+- 26 weeks for first and second child.
+- Google India enhanced maternity benefit: Full pay for statutory duration.
+- Flexible return-to-work: Option for gradual ramp-up.
+- New parent coaching and peer parent support available.
+
+PATERNITY LEAVE
+----------------
+- Google provides up to 18 weeks paid paternity leave (significantly above statutory).
+- Taken anytime within 12 months of birth, adoption, or surrogacy.
+
+PARENTAL LEAVE (PRIMARY/SECONDARY CAREGIVER)
+----------------------------------------------
+- Primary caregiver (regardless of gender): 18 weeks paid.
+- Secondary caregiver: 6 weeks paid.
+- Covers birth, adoption, foster care, and surrogacy.
+
+BEREAVEMENT LEAVE
+------------------
+- Immediate family (parent, spouse, child, sibling): Up to 5 days.
+- Extended family: 3 days.
+- Pregnancy/infant loss leave: Up to 20 days (Google Compassionate Care Policy).
+
+MARRIAGE LEAVE
+---------------
+- 5 working days for own wedding.
+
+CAREGIVER LEAVE
+----------------
+- Up to 4 weeks per year to care for a seriously ill family member.
+
+MENTAL HEALTH / WELLNESS LEAVE
+--------------------------------
+- Google recognizes mental health leave under sick leave.
+- "Care Days": Additional discretionary days at manager's approval for personal wellness.
+
+LEAVE APPLICATION PROCESS
+---------------------------
+- All leaves applied through Workday.
+- Manager approval required.
+- Integrated with Google Calendar for team visibility.
+- Emergency: Call/message manager immediately; apply in Workday within 24 hours.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: ATTENDANCE RULES & WORK HOURS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STANDARD WORK HOURS
+---------------------
+- 40 hours per week; 5-day work week.
+- Core collaboration hours: 10:00 AM – 4:00 PM (local time).
+- Flexible scheduling strongly encouraged; results over hours philosophy.
+
+HYBRID WORK MODEL
+------------------
+- Google's official policy (post-2022): 3 days in office per week (Tue, Wed, Thu preferred).
+- Fully remote roles: Available for certain positions with VP-level approval.
+- Flexible work arrangements for caregivers and special circumstances.
+- Office presence tracked via badge swipes (not punitive, used for space planning).
+- "20% Time": Googlers are encouraged to spend up to 20% of their time on innovative
+  side projects (informal policy; varies by team and project phase).
+
+ATTENDANCE TRACKING
+--------------------
+- Office: Badge-in/badge-out for security and space utilization.
+- Remote: No rigid clock-in; OKR-based output tracking.
+- Google Meet attendance for required sync meetings may be tracked by team.
+
+OVERTIME
+---------
+- Salaried (exempt) employees: No overtime pay; flexibility in lieu.
+- Non-exempt employees: Overtime per local labor law.
+
+ABSENTEEISM
+------------
+- Notify manager for all unexpected absences.
+- 3 consecutive unexplained absences: HR follow-up.
+- Chronic absenteeism addressed through performance counseling framework.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: BENEFITS & COMPENSATION OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HEALTH & WELLNESS (INDIA)
+--------------------------
+- Mediclaim: Employee + spouse + children + parents. Sum insured: INR 5 Lakhs
+  (extendable up to INR 50 Lakhs via additional coverage).
+- Group term life insurance: 5x annual CTC.
+- Group personal accident: 3x annual CTC.
+- Dental and vision coverage.
+- Mental health support: Free therapy sessions via EAP; on-campus counselors.
+- Google Wellness Reimbursement: Up to INR 20,000/year for gym, fitness tracker, yoga, etc.
+- Annual health screening: Fully covered.
+- On-site medical clinic/nurse at major campuses.
+- "gFit" wellness challenge program with rewards.
+
+FINANCIAL BENEFITS
+-------------------
+- PF: 12% employee + employer (India).
+- Gratuity: Statutory.
+- Annual Performance Bonus: Tied to individual rating and company performance.
+- Google Stock Units (GSUs/RSUs): Granted to all full-time employees.
+  Vesting: 4-year schedule; annual refreshers for top performers.
+- Employee Referral Program: Competitive bonus for successful hires.
+
+FAMOUS GOOGLE PERKS (SELECT INDIA-RELEVANT ONES)
+--------------------------------------------------
+- Free gourmet meals and snacks at office cafeteria ("Googleplex Dining" concept).
+- Micro-kitchens on every floor with healthy snacks, beverages, and coffee.
+- On-campus gyms, game rooms, massage chairs, and nap pods (at major campuses).
+- Laundry and dry-cleaning services on campus.
+- Google Hardware purchase discount (Pixel, Nest, Chromebook, etc.).
+- Google Play credit and YouTube Premium subscription.
+- On-site haircuts, car service, and other concierge services (select large campuses).
+
+LEARNING & DEVELOPMENT
+------------------------
+- Google Career Certificates: Access to all Google-offered certificate programs.
+- Google Cloud, AI/ML, Android, and data engineering training fully funded.
+- External Education Reimbursement: Up to USD 12,000/year (US); India equivalent.
+- Google's internal courses: "Grow with Google" platform.
+- Tech Talk series: Weekly knowledge-sharing sessions by Googlers and external experts.
+- 20% Time: Innovation projects encouraged (informal; varies by team).
+- G2G (Googler-to-Googler) teaching program: Peer-to-peer workshops on any topic.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: HR PROCESSES & POLICIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERFORMANCE MANAGEMENT (GRAD: Googler Reviews and Development)
+----------------------------------------------------------------
+- OKR-based (Objectives and Key Results) performance model — quarterly reviews.
+- Annual performance review: "GRAD" cycle.
+- Rating bands: Exceeds Expectations, Meets Expectations, Needs Improvement, etc.
+- 360° feedback from peers, reports, and cross-functional partners.
+- Compensation review tied to GRAD outcomes (adjustments, bonuses, equity refreshes).
+- Manager excellence rated via "Upward Feedback Survey" (annual).
+
+PROBATION POLICY
+-----------------
+- India: 6-month probation period.
+- Performance and culture fit assessed.
+- Confirmation via Workday; extension possible with documented feedback.
+
+CODE OF CONDUCT
+----------------
+- Google Code of Conduct: "Do the right thing."
+- Annual certification mandatory for all Googlers.
+- Covers: Conflicts of interest, insider trading, data privacy, harassment, retaliation.
+- Google's Ethics & Compliance Hotline: Anonymous, available 24/7.
+- Non-retaliation guaranteed for good-faith reports.
+- AI Principles: Google's AI ethics guide governs all AI-related work.
+
+SEPARATION & EXIT
+------------------
+- India notice period: 60–90 days (varies by level and employment contract).
+- Resignation via Workday.
+- Exit interview: Voluntary but encouraged.
+- F&F settlement within 45–60 days.
+- Return all Google equipment, badges, and parking passes on last day.
+
+INCLUSION, DIVERSITY & EQUITY
+-------------------------------
+- Google has ERGs (Employee Resource Groups) for 50+ global communities.
+  Examples: Women@Google, Black Googler Network, Gayglers, Googlers with Disabilities.
+- India-specific communities for cultural celebrations and advocacy.
+- DEI training: Unconscious Bias, Inclusive Leadership, and Allyship courses mandatory.
+- Accessibility programs for employees with disabilities.
+
+GRIEVANCE & ETHICS
+-------------------
+- "Open Door" policy: Any Googler can walk up to any leader.
+- HR Business Partner (People Partner) for formal concerns.
+- POSH Policy: Dedicated ICC at every India location.
+- Ethics Hotline for anonymous reporting.
+- Resolution: 30 working days.
+
+INTERNAL MOBILITY
+------------------
+- Google strongly encourages internal mobility after 12 months in current role.
+- Internal Transfer System available on HR portal.
+- "Google Careers" internal job board: Post for internal roles globally.
+- International transfers supported via Global Mobility team.
+
+================================================================================
+NOTE: This document is for informational purposes only.
+The HR ExplainerBot cannot approve leaves, process payroll, or grant policy exceptions.
+For approvals or personal HR matters, contact your People Partner (HR) directly.
+================================================================================

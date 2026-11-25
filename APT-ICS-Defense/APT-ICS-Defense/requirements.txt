@@ -1,0 +1,7 @@
+# Lean install (~150 MB total). No torch, no transformers, no CodeBERT.
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+streamlit

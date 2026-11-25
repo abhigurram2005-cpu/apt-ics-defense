@@ -1,0 +1,24 @@
+{
+  "name": "ai-guardian",
+  "displayName": "AI Guardian",
+  "description": "Quality-control layer for AI-assisted coding",
+  "version": "0.0.1",
+  "engines": { "vscode": "^1.85.0" },
+  "categories": ["Linters"],
+  "activationEvents": ["onLanguage:javascript", "onLanguage:typescript"],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "aiGuardian.analyzeFile",
+        "title": "AI Guardian: Analyze current file"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0"
+  }
+}

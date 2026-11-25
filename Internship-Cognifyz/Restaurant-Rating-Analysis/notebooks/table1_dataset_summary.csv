@@ -1,0 +1,8 @@
+Property,Value
+Number of Rows,9551
+Number of Columns,21
+Numerical Features,8
+Categorical Features,13
+Missing Values,9
+Duplicate Records,0
+Target Variable,Aggregate rating
